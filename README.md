@@ -1,2 +1,2 @@
 # python_practice_codes
-Some saved Python codes I wrote while self studying software
+Some saved Python codes I wrote while self studying software after I left my job at Western Digital mid-April 2018. This is proof I studied and have decent proficiency in Python I suppose. Please note that note all codes are complete; I did my best to put detailed comments to codes that were being buggy or unfinished. I would say >80% of the lines of Python code in this repository belong to me; the other 20% is copy-pasted to build functionality on top... for example I copied a simple linked list class in order to build a stack, queue, or doubly-linked list with.
